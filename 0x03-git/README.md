@@ -1,1 +1,1 @@
-understanding the concepts of using git
+understanding the concepts of using git and also trying to pass my projects
